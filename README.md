@@ -23,46 +23,55 @@ Our focus lies in comparing two distinct groups — the first-year students who 
 Survey Questions:
 
 
-1st Year MDS Students Questions
-
+1st Year MDS Students Questions:
 
 Exploring the Trimester Journey: Perspectives from Junior Participants
-2nd Year MDS Students Questions
 
+2nd Year MDS Students Questions:
 
 Exploring the Semester Journey: Perspectives from Senior Participants
 
 
-Variables of Interest
+Variables of Interest:
 
+1.Stress Levels: Self-perceived stress levels on a scale from 1 (low stress) to 5 (high stress).
 
-Stress Levels: Self-perceived stress levels on a scale from 1 (low stress) to 5 (high stress).
+2.Learning Experience: Impact of the trimester system on the overall learning experience.
 
-Learning Experience: Impact of the trimester system on the overall learning experience.
+3.Peer Interaction: Role of peer interaction in managing academic stress.
 
-Peer Interaction: Role of peer interaction in managing academic stress.
-
-Sleep Patterns: Impact of academic workload on sleep patterns.
+4.Sleep Patterns: Impact of academic workload on sleep patterns.
 
 Hypothesis Testing
 
-
 1. Comparison of Stress Levels
 Objective: Examine whether there is a significant difference in the average stress levels between first-year and senior students.
+
 Test: Independent Two-Sample t-Test
+
 Result: The average stress level of first-year students is greater than that of senior students.
 
 2. Comparison of Overall Learning Experience
 Objective: Investigate whether the trimester system has a statistically significant positive impact on the overall learning experience.
+
 Test: One-Sample t-Test
+
 Result: The overall learning experience under the trimester system is not giving a positive impact.
+
 3. Evaluation of Peer Interaction
+ 
 Objective: Assess the association between peer interaction and academic stress management.
+
 Test: Chi-Squared Test for Independence
+
 Result: There is a significant association between peer interaction and academic stress management.
+
 4. Sleep Patterns and Academic Workload
+ 
 Objective: Determine whether academic workload significantly affects the sleep patterns of first-year students.
+
 Test: One-Sample Proportion Test
+
 Result: Academic workload significantly affects sleep patterns.
 
 Recommendations:
