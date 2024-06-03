@@ -45,6 +45,7 @@ Variables of Interest:
 Hypothesis Testing
 
 1. Comparison of Stress Levels
+   
 Objective: Examine whether there is a significant difference in the average stress levels between first-year and senior students.
 
 Test: Independent Two-Sample t-Test
@@ -52,6 +53,7 @@ Test: Independent Two-Sample t-Test
 Result: The average stress level of first-year students is greater than that of senior students.
 
 2. Comparison of Overall Learning Experience
+   
 Objective: Investigate whether the trimester system has a statistically significant positive impact on the overall learning experience.
 
 Test: One-Sample t-Test
