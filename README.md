@@ -49,31 +49,34 @@ Hypothesis Testing
 
 1. Comparison of Stress Levels
 Objective: Examine whether there is a significant difference in the average stress levels between first-year and senior students.
-
 Test: Independent Two-Sample t-Test
-
 Result: The average stress level of first-year students is greater than that of senior students.
 
-3. Comparison of Overall Learning Experience
+2. Comparison of Overall Learning Experience
 Objective: Investigate whether the trimester system has a statistically significant positive impact on the overall learning experience.
 Test: One-Sample t-Test
 Result: The overall learning experience under the trimester system is not giving a positive impact.
-4. Evaluation of Peer Interaction
+3. Evaluation of Peer Interaction
 Objective: Assess the association between peer interaction and academic stress management.
 Test: Chi-Squared Test for Independence
 Result: There is a significant association between peer interaction and academic stress management.
-5. Sleep Patterns and Academic Workload
+4. Sleep Patterns and Academic Workload
 Objective: Determine whether academic workload significantly affects the sleep patterns of first-year students.
 Test: One-Sample Proportion Test
 Result: Academic workload significantly affects sleep patterns.
-Recommendations
+
+Recommendations:
+
 Adapt support systems to the specific challenges of the trimester pattern, including workshops on time management and stress reduction.
 Foster enhanced peer interaction through structured initiatives to build a supportive community.
 Improve feedback mechanisms and integrate extracurricular activities into the schedule.
 Raise awareness about sleep hygiene amid academic pressures.
-Conclusion
+
+Conclusion:
+
 The comparison of stress levels between first-year and senior students reveals a significant difference, emphasizing the unique challenges of the trimester pattern. The importance of peer interaction in managing academic stress is underscored, along with the significant impact on sleep patterns due to academic workload. Insights from senior perspectives provide valuable comparisons and reflections on challenges faced under the semester system.
 
-Future Prospects
+Future Prospects:
+
 Adaptive Support Systems: Tailor support systems to address the unique challenges of the trimester pattern with targeted workshops.
 Fostering Peer Interaction: Focus on enhancing peer connections through structured initiatives to build a supportive community.
